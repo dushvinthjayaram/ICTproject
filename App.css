@@ -1,0 +1,37 @@
+/* src/App.css */
+nav {
+  background-color: #333;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+form div {
+  margin-bottom: 15px;
+}
